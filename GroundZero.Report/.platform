@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "GroundZero"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "a6113a35-4c58-4e0a-bc16-cf3327cd339b"
+  }
+}
